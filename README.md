@@ -42,26 +42,34 @@ This project is a beginners level project.To get me familiar with the basics of 
 - Identified peak ride hours and surge pricing patterns.<br>
 - Evaluated driver performance and trip efficiency.<br>
 - Assessed customer retention and ride preferences.<br>
+
+#### 3. Documentation of business problems -<br>
+- Presented all business problems in a docx file.<br>
+- Findings and insights.<br>
+
+#### 4. Dashboard planning -<br>
+- Planned dashboard using Excalidraw.<br>
   
-#### 3. Data Visualization & Dashboard (Tableau) -<br>
+#### 5. Data Visualization & Dashboard (Tableau) -<br>
 - Imported cleaned Python data into Tableau.<br>
-- Tableau Dashboard for insights.(7 Pages)<br><br>
+- Tableau Dashboard for insights.(5 Pages)<br><br>
   
 
 ## Dashboard Features 
 
-#### **Sales Performance** -<br>
-- Revenue trends, order volume, and seasonal patterns.<br>
-- Sales by customer segments, Products.<br>
-#### **Customer Insights** -<br>
-- Demographics, time period, and payment methods.<br>
-- Lost and New customers.<br>
-#### **Inventory Analysis** -<br>
-- Stock levels and Prices.<br>
-#### **Feedback Metrics** -<br>
-- feedback details , feedback by sentiments, and rating analysis.<br>
-#### **Marketing Analysis** -<br>
-- Analyse clicks, impressions, conversions, spend.
+#### **Overall** -<br>
+- Total Bookings, Total Booking value.<br>
+- Booking Status, Ride volume over time.<br>
+#### **Vehicle Type** -<br>
+- Total Bookings, Cancellations, Booking value according to vehicle type.<br>
+#### **Revenue** -<br>
+- Revenue by vehicle category, over time.
+- Top 5 customers.<br>
+#### **Cancellation** -<br>
+- Cancelled bookings, Cancellation Rate.<br>
+- Reason for cancellation.<br>
+#### **Ratings** -<br>
+- Customers and drivers rating.
  <br><br>
 
 
@@ -70,32 +78,33 @@ This project is a beginners level project.To get me familiar with the basics of 
 - **Python** - Data cleaning, transformation, and business problem-solving.
 - **Pandas, NumPy** - Data manipulation and analysis.
 - **Matplotlib, Seaborn** - Data visualization in Python.
+- **Excalidraw** - Dashboard Planning.
 - **Tableau** - Interactive dashboard creation.
 - **CSV Files** - Raw dataset.<br><br>
 
 
 ## How To Use  
 
-1. **Clone the repository**
-   ``git clone https://github.com/yourusername/Project_Blinkit.git`` 
-2. **Import the SQL files** into your database.
-3. **Download the Power BI dashboard (`.pbix`)** from this repository to explore insights.
+1. **Clone the repository**<br>
+   ```git clone https://github.com/yourusername/Project_Blinkit.git```
+2. **Import the python files** into your database.
+3. **Download the Tableau dashboard (`.twb`)** from this repository to explore insights.
 <br><br>
 
 
 ## Dashboard Planning Preview
 
-![Home Page](https://github.com/user-attachments/assets/bf20ba20-13f2-4823-a098-2789d422059b)<br>
+![Revenue Page](https://github.com/user-attachments/assets/b37718a0-9872-4aab-abca-80099e11b9dd)<br>
 For more pages **Download the Dashboard Planning Images (`.png`)** from this repository By going in Dashboard Planning Directory.<br><br> 
 
 
 ## Dashboard Previews
 
-### Customer Page -
-![Image](https://github.com/user-attachments/assets/48e92199-ff10-45bb-927f-75d2bce265e9)<br><br>
+### Vehicle Type Page -
+![Revenue Dashboard](https://github.com/user-attachments/assets/87eb802b-b637-414f-b7fe-925f079fc80e)<br><br>
 
 
 ## Conclusion
-This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+This project provides an excellent opportunity for me as a beginners to gain tableau,python knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
 
 
