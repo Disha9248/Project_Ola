@@ -94,7 +94,7 @@ This project is a beginners level project.To get me familiar with the basics of 
 
 ## Dashboard Planning Preview
 
-![Revenue Page](https://github.com/user-attachments/assets/b37718a0-9872-4aab-abca-80099e11b9dd)<br>
+![Ola Image](https://github.com/user-attachments/assets/857ba1d9-cf1b-4e54-8f3d-445a71719a26)<br>
 For more pages **Download the Dashboard Planning Images (`.png`)** from this repository By going in Dashboard Planning Directory.<br><br> 
 
 
