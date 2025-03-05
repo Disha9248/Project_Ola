@@ -86,7 +86,7 @@ This project is a beginners level project.To get me familiar with the basics of 
 ## How To Use  
 
 1. **Clone the repository**<br>
-   ```git clone https://github.com/yourusername/Project_Blinkit.git```
+   ```git clone https://github.com/yourusername/Project_Ola.git```
 2. **Import the python files** into your database.
 3. **Download the Tableau dashboard (`.twb`)** from this repository to explore insights.
 <br><br>
@@ -100,7 +100,7 @@ For more pages **Download the Dashboard Planning Images (`.png`)** from this rep
 
 ## Dashboard Previews
 
-### Vehicle Type Page -
+### Revenue Page -
 ![Revenue Dashboard](https://github.com/user-attachments/assets/87eb802b-b637-414f-b7fe-925f079fc80e)<br><br>
 
 
